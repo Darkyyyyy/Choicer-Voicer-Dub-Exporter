@@ -1,0 +1,9 @@
+# Exported videos
+exports/
+
+# Python
+__pycache__/
+*.pyc
+
+# Scratch
+*.tmp
